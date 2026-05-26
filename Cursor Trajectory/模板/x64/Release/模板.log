@@ -1,0 +1,12 @@
+﻿  模板.cpp
+E:\c艹\Cursor Trajectory\模板.cpp(222,18): warning C4244: “初始化”: 从“Uint64”转换到“float”，可能丢失数据
+E:\c艹\Cursor Trajectory\模板.cpp(230,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\c艹\Cursor Trajectory\模板.cpp(238,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\c艹\Cursor Trajectory\模板.cpp(242,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\c艹\Cursor Trajectory\模板.cpp(243,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 362 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  模板.vcxproj -> E:\c艹\Cursor Trajectory\x64\Release\模板.exe
